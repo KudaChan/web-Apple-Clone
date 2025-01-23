@@ -10,7 +10,6 @@ This project is a clone of the Apple website built using React and Vite. It incl
 - [Installation](#installation)
 - [Usage](#usage)
 - [Scripts](#scripts)
-- [Dependencies](#dependencies)
 - [Development](#development)
 - [License](#license)
 
@@ -71,20 +70,6 @@ npm run dev
     ```sh
     npm run preview
     ```
-
-## Dependencies
-
-- `react`: ^18.3.1
-- `react-dom`: ^18.3.1
-- `react-router-dom`: ^6.26.0
-- `@react-three/drei`: ^9.109.2
-- `@react-three/fiber`: ^8.16.8
-- `three`: ^0.167.1
-- `@sentry/react`: ^8.22.0
-- `@sentry/tracing`: ^7.114.0
-- `@sentry/vite-plugin`: ^2.21.1
-- `@gsap/react`: ^2.1.1
-- `gsap`: ^3.12.5
 
 ## Development
 
